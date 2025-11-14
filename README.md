@@ -4,7 +4,7 @@ Welcome to **Royal Fashions**, a sleek and responsive e-commerce frontend built 
 
 ##  Live Preview
 
-![Promotional Banner](https://github.com/Rockstar1611/E-commerce-website/blob/main/imgs/img1.png)
+![Promotional Banner](https://github.com/Rockstar1611/E-commerce-website/blob/main/imgs/Hero_background.jpg)
 
 > **Best Deals • Value For Money Products • Save more with coupons and up to 70% off!**
 
