@@ -23,7 +23,7 @@ Welcome to **Royal Fashions**, a sleek and responsive e-commerce frontend built 
 
 ##  Image Assets
 
-All visuals are stored in the [`imgs`](https://github.com/Rockstar1611/E-commerce-website/tree/main/imgs) folder. Key assets include:
+All visuals are stored in the <img src="E-Commerce_Website.png" alt="E-commerce"></a> folder. Key assets include:
 
 | Image Name | Description |
 |------------|-------------|
