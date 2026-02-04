@@ -52,7 +52,7 @@ This project is part of a larger initiative to build **recruiter-shocking web ap
 To run locally:
 
 ```bash
-git clone https://github.com/Rockstar1611/E-commerce-website.git
+git clone https://github.com/RagannagariSiva/Royal_Fashions-E-Commers
 cd E-commerce-website
 open index.html
 
